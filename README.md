@@ -42,3 +42,9 @@ Speaker Deck: <https://speakerdeck.com/newtron/improving-performance-with-respon
 * [Using aria-labelledby to provide a text alternative for non-text content](http://www.w3.org/WAI/GL/wiki/Using_aria-labelledby_to_provide_a_text_alternative_for_non-text_content)
 * [longdesc Implementation Report](http://w3c.github.io/test-results/html-longdesc/cr-report.html)
 * [Using ARIA to enhance SVG accessibility](http://www.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
+
+---
+
+* [RICG Responsive Images WordPress Plugin](https://wordpress.org/plugins/ricg-responsive-images/)
+* [WordPress 4.4 Release Candidate](https://wordpress.org/news/2015/11/wordpress-4-4-release-candidate/)
+* [WPO Stats](https://wpostats.com/)
