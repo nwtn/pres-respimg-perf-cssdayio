@@ -8,7 +8,7 @@ CSSDay.io
 <http://cssday.io/>
 
 Github: <https://github.com/nwtn/pres-respimg-perf-cssdayio>  
-Speaker Deck: <https://speakerdeck.com/newtron/improving-performance-with-responsive-and-responsible-images-cssdayio>
+Speaker Deck: <https://speakerdeck.com/newtron/improving-performance-with-responsive-and-responsible-images-cssday-dot-io>
 
 ## Links
 
